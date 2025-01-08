@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Veda-2004
-- 👀 I’m interested in DSA using Java and ML with python
+- 👀 I’m interested in DSA using C++
 - 🌱 I’m currently learning B.tech Cse
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
